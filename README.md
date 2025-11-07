@@ -1,6 +1,6 @@
 # Intelligent Resource Allocator
 
-An AI-based resource allocation system that uses multiple optimization algorithms (Heuristic, Genetic Algorithm, A* Search, and Score-based allocation) to efficiently allocate CPU and memory resources among competing processes. The system features an interactive Streamlit web interface for visualizing and comparing different allocation strategies.
+An AI-based resource allocation system that uses multiple optimization algorithms (Heuristic, Genetic Algorithm, A* Search, and Score-based allocation) to efficiently allocate CPU and memory resources among competing processes. Features an interactive Streamlit web interface for visualizing and comparing different allocation strategies in real-time.
 
 ## Features
 
