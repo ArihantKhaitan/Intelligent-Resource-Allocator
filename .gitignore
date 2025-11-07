@@ -1,0 +1,31 @@
+# Exclude PDF files
+*.pdf
+
+# Exclude PowerPoint files
+*.pptx
+*.ppt
+
+# Exclude Word documents
+*.docx
+*.doc
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
